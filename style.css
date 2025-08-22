@@ -1,3 +1,4 @@
+
 body{
 background-color: hotpink;
 background: linear-gradient(red,blue);
@@ -13,3 +14,4 @@ view
 h1{
 	font-size: 12vw;
 }
+a {color:inherit}
