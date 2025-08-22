@@ -1,4 +1,15 @@
 body{
 background-color: hotpink;
+background: linear-gradient(red,blue);
 font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+display: flex;min-height: 100vh;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+view
+}
+
+h1{
+	font-size: 12vw;
 }
