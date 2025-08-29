@@ -1,4 +1,9 @@
-
+ /* ----------------------- */
+/* --import--------- */
+@import url(reset.css);
+@import url(utility.css);
+ /* ----------------------- */
+/* --color--------- */
 body{
 background-color: hotpink;
 background: linear-gradient(pink,blue);
@@ -8,10 +13,8 @@ display: flex;min-height: 100vh;
 justify-content: center;
 align-items: center;
 flex-direction: column;
-view
 }
 
-h1{
-	font-size: 12vw;
-}
+h1{	font-size: 12vw ; }
+
 a {color:inherit}
